@@ -1,0 +1,12 @@
+C:\Users\Mustafa Koca\Desktop\FlayingEscapes\FlayingEscapes\bin\Debug\FlayingEscapes.exe.config
+C:\Users\Mustafa Koca\Desktop\FlayingEscapes\FlayingEscapes\bin\Debug\FlayingEscapes.exe
+C:\Users\Mustafa Koca\Desktop\FlayingEscapes\FlayingEscapes\bin\Debug\FlayingEscapes.pdb
+C:\Users\Mustafa Koca\Desktop\FlayingEscapes\FlayingEscapes\obj\Debug\FlayingEscapes.csprojAssemblyReference.cache
+C:\Users\Mustafa Koca\Desktop\FlayingEscapes\FlayingEscapes\obj\Debug\FlayingEscapes.exe
+C:\Users\Mustafa Koca\Desktop\FlayingEscapes\FlayingEscapes\obj\Debug\FlayingEscapes.pdb
+C:\Users\Mustafa Koca\Desktop\YAZILIM DERSLERİ\FlayingEscapes\FlayingEscapes\bin\Debug\FlayingEscapes.exe.config
+C:\Users\Mustafa Koca\Desktop\YAZILIM DERSLERİ\FlayingEscapes\FlayingEscapes\bin\Debug\FlayingEscapes.exe
+C:\Users\Mustafa Koca\Desktop\YAZILIM DERSLERİ\FlayingEscapes\FlayingEscapes\bin\Debug\FlayingEscapes.pdb
+C:\Users\Mustafa Koca\Desktop\YAZILIM DERSLERİ\FlayingEscapes\FlayingEscapes\obj\Debug\FlayingEscapes.csprojAssemblyReference.cache
+C:\Users\Mustafa Koca\Desktop\YAZILIM DERSLERİ\FlayingEscapes\FlayingEscapes\obj\Debug\FlayingEscapes.exe
+C:\Users\Mustafa Koca\Desktop\YAZILIM DERSLERİ\FlayingEscapes\FlayingEscapes\obj\Debug\FlayingEscapes.pdb
